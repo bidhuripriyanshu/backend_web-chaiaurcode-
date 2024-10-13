@@ -1,0 +1,16 @@
+{
+  "name": "backend_web",
+  "version": "1.0.0",
+  "description": " learning backend_web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "express",
+    "mongoose"
+  ],
+  "author": "priyanshu",
+  "license": "ISC"
+}
